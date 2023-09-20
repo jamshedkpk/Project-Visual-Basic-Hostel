@@ -1,0 +1,431 @@
+F:\PROJECTS\Hostel Management\Hostel Management\bin\Debug\Hostel Management.exe
+F:\PROJECTS\Hostel Management\Hostel Management\bin\Debug\Hostel Management.pdb
+F:\PROJECTS\Hostel Management\Hostel Management\bin\Debug\Hostel Management.xml
+F:\PROJECTS\Hostel Management\Hostel Management\obj\x86\Debug\Hostel_Management.Form1.resources
+F:\PROJECTS\Hostel Management\Hostel Management\obj\x86\Debug\Hostel_Management.Resources.resources
+F:\PROJECTS\Hostel Management\Hostel Management\obj\x86\Debug\Hostel Management.vbproj.GenerateResource.Cache
+F:\PROJECTS\Hostel Management\Hostel Management\obj\x86\Debug\Hostel Management.exe
+F:\PROJECTS\Hostel Management\Hostel Management\obj\x86\Debug\Hostel Management.xml
+F:\PROJECTS\Hostel Management\Hostel Management\obj\x86\Debug\Hostel Management.pdb
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.exe
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.xml
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.pdb
+F:\PROJECTS\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe
+F:\PROJECTS\HostelManagement\Hostel Management\bin\Debug\Hostel Management.pdb
+F:\PROJECTS\HostelManagement\Hostel Management\bin\Debug\Hostel Management.xml
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmDepartment.resources
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmHostel.resources
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Resources.resources
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbproj.GenerateResource.Cache
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmProgram.resources
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmStudentInformation.resources
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomAllocation.resources
+D:\Project\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.exe
+D:\Project\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.xml
+D:\Project\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.pdb
+D:\Project\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe
+D:\Project\HostelManagement\Hostel Management\bin\Debug\Hostel Management.pdb
+D:\Project\HostelManagement\Hostel Management\bin\Debug\Hostel Management.xml
+D:\Project\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmdepartment.resources
+D:\Project\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmHostel.resources
+D:\Project\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmprogram.resources
+D:\Project\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmStudentInformation.resources
+D:\Project\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Resources.resources
+D:\Project\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbproj.GenerateResource.Cache
+D:\Project\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomInformation.resources
+D:\Project\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmClearance.resources
+D:\Project\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomAllocation.resources
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomInformation.resources
+D:\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.exe
+D:\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.xml
+D:\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.pdb
+D:\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe
+D:\HostelManagement\Hostel Management\bin\Debug\Hostel Management.pdb
+D:\HostelManagement\Hostel Management\bin\Debug\Hostel Management.xml
+D:\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmclearance.resources
+D:\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmdepartment.resources
+D:\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmHostel.resources
+D:\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmprogram.resources
+D:\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomAllocation.resources
+D:\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomInformation.resources
+D:\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmStudentInformation.resources
+D:\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Resources.resources
+D:\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbproj.GenerateResource.Cache
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRecord.resources
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRoom.resources
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchStudent.resources
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchAllocation.resources
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRoomStatus.resources
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.frmsearchprogram.resources
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessAttendence.resources
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessPayment.resources
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmHostelManagementSystem.resources
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.TblRoomClearance.resources
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchClearance.resources
+F:\PROJECTS\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.VWSearchClearance.resources
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.exe
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.xml
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.pdb
+G:\Projects\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe
+G:\Projects\HostelManagement\Hostel Management\bin\Debug\Hostel Management.pdb
+G:\Projects\HostelManagement\Hostel Management\bin\Debug\Hostel Management.xml
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmdepartment.resources
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmHostel.resources
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmHostelManagementSystem.resources
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessAttendence.resources
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessPayment.resources
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmprogram.resources
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomAllocation.resources
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.TblRoomClearance.resources
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomInformation.resources
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchAllocation.resources
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchClearance.resources
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.frmsearchprogram.resources
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRecord.resources
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRoom.resources
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRoomStatus.resources
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchStudent.resources
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmStudentInformation.resources
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Resources.resources
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.VWSearchClearance.resources
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Projects\HostelManagement\Hostel Management\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.exe
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.xml
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.pdb
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\bin\Debug\Hostel Management.pdb
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\bin\Debug\Hostel Management.xml
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmdepartment.resources
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmHostel.resources
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmHostelManagementSystem.resources
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessAttendence.resources
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessPayment.resources
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessRates.resources
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmprogram.resources
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomAllocation.resources
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.TblRoomClearance.resources
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomInformation.resources
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchAllocation.resources
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchClearance.resources
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.frmsearchprogram.resources
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRecord.resources
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRoom.resources
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRoomStatus.resources
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchStudent.resources
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmStudentInformation.resources
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Resources.resources
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbproj.GenerateResource.Cache
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbprojResolveAssemblyReference.cache
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessRate.resources
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessAttendence.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.exe
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.xml
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.pdb
+F:\ADNAN\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe
+F:\ADNAN\HostelManagement\Hostel Management\bin\Debug\Hostel Management.pdb
+F:\ADNAN\HostelManagement\Hostel Management\bin\Debug\Hostel Management.xml
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbprojResolveAssemblyReference.cache
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmdepartment.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmHostel.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmHostelManagementSystem.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessAttendence.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessPayment.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessRates.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmprogram.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomAllocation.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.TblRoomClearance.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomInformation.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchAllocation.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchClearance.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessAttendence.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessRate.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.frmsearchprogram.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRecord.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRoom.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRoomStatus.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchStudent.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmStudentInformation.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Resources.resources
+F:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbproj.GenerateResource.Cache
+C:\Users\JAMSHED KHAN\Desktop\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessPayment.resources
+D:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.exe
+D:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.xml
+D:\ADNAN\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.pdb
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.exe
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.xml
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.pdb
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\bin\Debug\Hostel Management.pdb
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\bin\Debug\Hostel Management.xml
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbprojResolveAssemblyReference.cache
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmdepartment.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmHostel.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmHostelManagementSystem.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessAttendence.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessPayment.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessRates.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmprogram.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomAllocation.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.TblRoomClearance.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomInformation.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchAllocation.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchClearance.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessAttendence.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessPayment.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessRate.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.frmsearchprogram.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRecord.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRoom.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchStudent.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmStudentInformation.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Resources.resources
+F:\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbproj.GenerateResource.Cache
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.exe
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.xml
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.pdb
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\bin\Debug\Hostel Management.pdb
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\bin\Debug\Hostel Management.xml
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbprojResolveAssemblyReference.cache
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmdepartment.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmHostel.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessAttendence.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessPayment.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessRates.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmprogram.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomAllocation.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomInformation.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchAllocation.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchClearance.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessAttendence.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessPayment.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessRate.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.frmsearchprogram.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRecord.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRoom.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchStudent.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmStudentInformation.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Resources.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbproj.GenerateResource.Cache
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmReport.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe.config
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.HostelManagementSystem.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomClearance.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe.config
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.exe
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.xml
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.pdb
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\bin\Debug\Hostel Management.pdb
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\bin\Debug\Hostel Management.xml
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbprojResolveAssemblyReference.cache
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.HostelManagementSystem.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmdepartment.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmHostel.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessAttendence.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessPayment.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessRates.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmprogram.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmreport.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomAllocation.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomClearance.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomInformation.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchAllocation.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchClearance.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessAttendence.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessPayment.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessRate.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.frmsearchprogram.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRecord.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRoom.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchStudent.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmStudentInformation.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Resources.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem-1\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbproj.GenerateResource.Cache
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe.config
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.exe
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.xml
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.pdb
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\bin\Debug\Hostel Management.pdb
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\bin\Debug\Hostel Management.xml
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbprojResolveAssemblyReference.cache
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.HostelManagementSystem.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmdepartment.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmHostel.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessAttendence.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessPayment.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessRates.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmprogram.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmreport.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomAllocation.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomClearance.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomInformation.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchAllocation.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchClearance.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessAttendence.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessPayment.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessRate.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.frmsearchprogram.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRecord.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRoom.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchStudent.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmStudentInformation.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Resources.resources
+C:\Users\JAMSHED KHAN\Desktop\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbproj.GenerateResource.Cache
+F:\HostelManagementSystem\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe.config
+F:\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.exe
+F:\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.xml
+F:\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.pdb
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe.config
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.exe
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.xml
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.pdb
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbprojResolveAssemblyReference.cache
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.HostelManagementSystem.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmdepartment.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmHostel.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessAttendence.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessPayment.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessRates.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmprogram.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmreport.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomAllocation.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomClearance.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomInformation.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchAllocation.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchClearance.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessAttendence.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessPayment.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessRate.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.frmsearchprogram.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRecord.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRoom.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchStudent.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmStudentInformation.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Resources.resources
+G:\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbproj.GenerateResource.Cache
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe.config
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.exe
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.xml
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.pdb
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\bin\Debug\Hostel Management.pdb
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\bin\Debug\Hostel Management.xml
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbprojResolveAssemblyReference.cache
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.HostelManagementSystem.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmdepartment.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmHostel.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessAttendence.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessPayment.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessRates.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmprogram.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmreport.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomAllocation.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomClearance.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomInformation.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchAllocation.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchClearance.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessAttendence.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessPayment.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessRate.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.frmsearchprogram.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRecord.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRoom.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchStudent.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmStudentInformation.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Resources.resources
+G:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbproj.GenerateResource.Cache
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe.config
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.exe
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.xml
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.pdb
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbprojResolveAssemblyReference.cache
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.HostelManagementSystem.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmdepartment.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmHostel.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessAttendence.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessPayment.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessRates.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmprogram.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmreport.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomAllocation.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomClearance.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomInformation.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchAllocation.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchClearance.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessAttendence.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessPayment.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessRate.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.frmsearchprogram.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRecord.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRoom.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchStudent.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmStudentInformation.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Resources.resources
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbproj.GenerateResource.Cache
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\bin\Debug\Hostel Management.pdb
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\bin\Debug\Hostel Management.xml
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe.manifest
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\bin\Debug\Hostel Management.application
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.exe.manifest
+H:\Personal Data\Computer Notes\Projects\HostelManagementSystem\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.application
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe.config
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.exe
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.xml
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.pdb
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbprojResolveAssemblyReference.cache
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.HostelManagementSystem.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmdepartment.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmHostel.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessAttendence.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessPayment.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessRates.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmprogram.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmreport.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomAllocation.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomClearance.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomInformation.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchAllocation.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchClearance.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessAttendence.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessPayment.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessRate.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.frmsearchprogram.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRecord.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRoom.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchStudent.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmStudentInformation.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Resources.resources
+G:\Personal Data\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbproj.GenerateResource.Cache
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\bin\Debug\Hostel Management.exe.config
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.exe
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.xml
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.pdb
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbprojResolveAssemblyReference.cache
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.HostelManagementSystem.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmdepartment.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmHostel.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessAttendence.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessPayment.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmMessRates.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmprogram.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Frmreport.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomAllocation.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomClearance.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmRoomInformation.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchAllocation.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchClearance.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessAttendence.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessPayment.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchMessRate.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.frmsearchprogram.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRecord.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchRoom.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmSearchStudent.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.FrmStudentInformation.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel_Management.Resources.resources
+D:\Education\Documents\Computer\Projects\HostelManagementSystem In VB\HostelManagement\Hostel Management\obj\x86\Debug\Hostel Management.vbproj.GenerateResource.Cache
